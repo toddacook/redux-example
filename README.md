@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a demo of React and Redux to show some common patterns and conventions.
+
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Getting the Redux stuff organized is up to you. The [Redux Docs](https://redux.js.org/faq/code-structure) give a
+great rundown on stuff like this. This project follows a "domain-style" pattern.
 
 ## Available Scripts
 
